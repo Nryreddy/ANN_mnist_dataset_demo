@@ -7,5 +7,5 @@ PyYAML
 
 
 
-## local package instalation
--e .
+## local package installation
+-e .   ##pip install -e .
