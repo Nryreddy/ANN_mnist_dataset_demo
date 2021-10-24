@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="ANN_mnist_dataset_demo",
-    version="0.0.1",
+    version="0.0.2",
     author="Nryreddy",
     description="A small package for ANN implementation",
     long_description=long_description,
